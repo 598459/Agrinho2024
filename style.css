@@ -45,10 +45,10 @@ header{
   width: 400px ;  
 }
 
-.elemwntos{
-    display: flex;
-}
+.elementos{
+display: flex;
 
+}
 
 .container{
  border: 2px solid black;
