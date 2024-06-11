@@ -1,5 +1,5 @@
 body{
-
+    width:100%;
     background-color: rgb(132, 135, 137);
 
 }
@@ -48,9 +48,11 @@ header{
 .elementos{
 display: flex;
 
+
 }
 
 .container{
+width: 33vw;
  border: 2px solid black;
  padding: 20px;
  text-align: center;
