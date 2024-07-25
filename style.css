@@ -1,13 +1,13 @@
 body{
     width:100%;
-    background-color: rgb(15, 125, 199);
+    background-color: rgb(255, 255, 255);
 
 }
 
 header{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(98, 58, 240);
+    background-color: rgb(70, 201, 140);
     padding: 20px;
     align-items: center;
 }
